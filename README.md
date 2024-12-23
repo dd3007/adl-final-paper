@@ -6,11 +6,7 @@ COMSW4995: Applied Deep Learning - Final Project
 Dani Dassum  
 dd3007@columbia.edu  
 
-==============================================================================
-
 This project demonstrates how to use a neural style transfer model to blend multiple artistic styles and apply them to a content image. Inspired by the work of Gatys et al. (2015), this implementation utilizes VGG-19 for feature extraction and introduces a method to combine two artistic styles by assigning weights to each. The result is a unique hybrid visual that preserves the structure of the content image while blending multiple styles harmoniously.
-
-==============================================================================
 
 ## How It Works ##
 
