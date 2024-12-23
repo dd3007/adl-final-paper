@@ -21,9 +21,8 @@ The notebook:
 ## Running the Notebook ##
 
 1. Clone the repository or download the notebook file, using:
-
-git clone https://github.com/dd3007/adl-final-paper.git
-
+   ```bash
+   git clone https://github.com/dd3007/adl-final-paper.git
 3. Open the notebook in your preferred environment (e.g., Jupyter Notebook or Google Colab).  
 4. Run the cells step by step:  
    - An installation block is included to install all necessary packages (`torch`, `torchvision`, `matplotlib`, etc.).  
