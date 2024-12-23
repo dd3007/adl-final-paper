@@ -21,6 +21,7 @@ The notebook:
 ## Running the Notebook ##
 
 1. Clone the repository or download the notebook file, using:
+
    ```bash
    git clone https://github.com/dd3007/adl-final-paper.git
 3. Open the notebook in your preferred environment (e.g., Jupyter Notebook or Google Colab).  
